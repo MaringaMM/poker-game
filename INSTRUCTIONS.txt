@@ -1,0 +1,1 @@
+============== INSTRUCTIONS ====================================PLEASE NOTE: The bat script is designed to run the project from your Desktop1. Unzip folder to your Desktop2. Run "run-app-script.bat" to compile, run tests and execute application==============================================================
